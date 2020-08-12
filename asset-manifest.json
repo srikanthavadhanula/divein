@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/divein/static/css/main.5f361e03.chunk.css",
+    "main.js": "/divein/static/js/main.a1893ac2.chunk.js",
+    "main.js.map": "/divein/static/js/main.a1893ac2.chunk.js.map",
+    "runtime-main.js": "/divein/static/js/runtime-main.d9f25eaa.js",
+    "runtime-main.js.map": "/divein/static/js/runtime-main.d9f25eaa.js.map",
+    "static/js/2.3ae93777.chunk.js": "/divein/static/js/2.3ae93777.chunk.js",
+    "static/js/2.3ae93777.chunk.js.map": "/divein/static/js/2.3ae93777.chunk.js.map",
+    "index.html": "/divein/index.html",
+    "precache-manifest.2841185d2a1bc86e346a405922a564e9.js": "/divein/precache-manifest.2841185d2a1bc86e346a405922a564e9.js",
+    "service-worker.js": "/divein/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/divein/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3ae93777.chunk.js.LICENSE.txt": "/divein/static/js/2.3ae93777.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/divein/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9f25eaa.js",
+    "static/js/2.3ae93777.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a1893ac2.chunk.js"
+  ]
+}
