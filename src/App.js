@@ -1,12 +1,21 @@
 import React from "react";
-import logo from "./logo.svg";
 import "./App.css";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
+import Home from "./tasks/Home";
+import divein from "./tasks/divein";
+import read from "./tasks/read";
+import write from "./tasks/write";
 
 function App() {
   return (
-    <div className="App">
-      <h1>Sai Srikanth Avadhanula</h1>
-    </div>
+    <BrowserRouter>
+      <Switch>
+        <Route path="/" exact component={Home} />
+        <Route path="/divein" exact component={divein} />
+        <Route path="/read" exact component={read} />
+        <Route path="/write" exact component={write} />
+      </Switch>
+    </BrowserRouter>
   );
 }
 
