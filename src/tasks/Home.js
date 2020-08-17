@@ -10,6 +10,8 @@ const Home = () => {
       <Link to="/read">Read Data From DB</Link>
       <br />
       <Link to="/write">Write Data To DB</Link>
+      <br />
+      <Link to="/learning">Learning</Link>
     </div>
   );
 };
